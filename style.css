@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#todoInput{
+    outline: none;
+}
+
+body{
+    background:linear-gradient(to right ,red , yellow);
+}
+
+.button{
+    margin-left: 25%;
+    border-radius: 10px;
+    border:none;
+    background-color: red;
+    color: white;
+}
+.button1{
+    border-radius: 10px;
+    border:none;
+    background-color: yellow;
+}
+
+/* .inputDiv input{
+    cursor: pointer;
+     background-color: rgb(125, 140, 115); 
+    background: rgba(255,255,255,0.1);
+    font-weight: bold;
+    /* border-color:#2196f3; 
+    /* color: white; 
+    z-index: 3;
+    text-decoration: none;
+    outline: none;
+}
+.button1{
+    margin-left: 10%;
+    width: 160px;
+    height: 50px;
+    border:none;
+    background-color: red;
+    color: white;
+}
+.button2{
+    margin-left: 10%;
+    width: 200px;
+    height: 50px;
+    border:none;
+    background-color: yellow;
+    color: white;
+}
+ .liStyling{
+    height: 100px;
+    margin-left: 5%;
+    width: 30%;
+    color: black;
+    z-index: 10;
+}    
+.parentDiv{
+     border: 2px solid white; 
+    width: 40%;
+    height: 600px;
+    z-index: 999;
+    margin: 1% 30%;
+    opacity: 0.9;
+}
+.parentDiv h1{
+    text-align: center;
+    padding: 20px;
+    /* background: white; 
+    border-radius: 50px;
+    color: grey;
+    /* opacity: 0.9; 
+}*/
